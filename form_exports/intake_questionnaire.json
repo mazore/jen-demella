@@ -1,0 +1,1592 @@
+{
+    "metadata":{
+       "title":"Assessment Intake Questionnaire",
+       "id":"1nGjLXhve206_BsC4iJ_wuoMc3vOoHQj2Kvd_xYHYyxI",
+       "description":"",
+       "publishedUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdSO7Sx2ETl0w5P78HO_2pIzoCm7ioPHQo_D71KEemo745Zng/viewform",
+       "editorEmails":[
+          "drdemella@sanapsych.net",
+          "evanmazor@gmail.com",
+          "drbarnes@kalamazooadhd.com"
+       ],
+       "count":99,
+       "confirmationMessage":"",
+       "customClosedFormMessage":""
+    },
+    "items":[
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"What has prompted the evaluation at this time?",
+          "id":305059413,
+          "index":0,
+          "helpText":"Please use a few sentences to explain the reason for this assessment including when this started, stability over time, attempts to ameliorate the issue.",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"What do you hope to gain from a neuropsychological assessment?",
+          "id":64281150,
+          "index":1,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"IDENTIFYING INFORMATION",
+          "id":1509865636,
+          "index":2,
+          "helpText":""
+       },
+       {
+          "type":"TEXT",
+          "title":"First Name",
+          "id":600246254,
+          "index":3,
+          "helpText":"",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"TEXT",
+          "title":"Last Name",
+          "id":255655686,
+          "index":4,
+          "helpText":"",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"DATE",
+          "title":"DOB",
+          "id":59735441,
+          "index":5,
+          "helpText":"",
+          "points":0,
+          "isRequired":true,
+          "includesYear":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Describe the patient's current living situation.",
+          "id":1507908257,
+          "index":6,
+          "helpText":"Please list everyone in the household including name, age, occupation, education level, relationship. Please note any immediate family members who no longer live at home and reason.",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Gender Identity",
+          "id":1797575103,
+          "index":7,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "male",
+             "female",
+             "non-binary"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Pronouns",
+          "id":961503819,
+          "index":8,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "He/His",
+             "She/Hers",
+             "They/Theirs"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"He She",
+          "id":1935409612,
+          "index":9,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":false,
+          "choices":[
+             "He",
+             "She",
+             "They"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"he she",
+          "id":1403302074,
+          "index":10,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":false,
+          "choices":[
+             "he",
+             "she",
+             "they"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"His Her",
+          "id":1000100761,
+          "index":11,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":false,
+          "choices":[
+             "His",
+             "Her",
+             "Their"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"his her",
+          "id":2092916469,
+          "index":12,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":false,
+          "choices":[
+             "his",
+             "her",
+             "their"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Sexual Orientation",
+          "id":2001051978,
+          "index":13,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "Heterosexual",
+             "Homosexual",
+             "Bisexual",
+             "Asexual",
+             "Pansexual",
+             "Queer",
+             "Questioning"
+          ]
+       },
+       {
+          "type":"TEXT",
+          "title":"Where was the patient born?",
+          "id":412992737,
+          "index":14,
+          "helpText":"City, State",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"TEXT",
+          "title":"Where was the patient raised?",
+          "id":694489343,
+          "index":15,
+          "helpText":"City, State",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"What is your cultural heritage?",
+          "id":1302654516,
+          "index":16,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "African",
+             "Asian",
+             "European",
+             "Hispanic or Latino",
+             "Middle Eastern",
+             "Native American",
+             "Pacific Islander",
+             "Mixed descent",
+             "Jewish"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"With whom does the patient currently live?",
+          "id":268083320,
+          "index":17,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":false,
+          "choices":[
+             "mother",
+             "father",
+             "mother and father",
+             "grandparents",
+             "family members",
+             "guardian"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Where there any moves?",
+          "id":644948300,
+          "index":18,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of moves",
+             "one move",
+             "multiple moves",
+             "recent move within the past year",
+             "frequent moves due to family circumstances",
+             "moves related to military service",
+             "moves related to housing instability"
+          ]
+       },
+       {
+          "type":"TEXT",
+          "title":"If there were any moves, at what age?",
+          "id":561773454,
+          "index":19,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Maternal History:",
+          "id":278684537,
+          "index":20,
+          "helpText":"Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History\n(milestones met? list age of any concerns).",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Paternal History: ",
+          "id":1183529758,
+          "index":21,
+          "helpText":"Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History\n(milestones met? list age of any concerns)",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Please describe any important cultural history and ethnic identity of the patient.",
+          "id":620014122,
+          "index":22,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"DEVELOPMENTAL HISTORY",
+          "id":631392081,
+          "index":23,
+          "helpText":""
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Gestation",
+          "id":1423692973,
+          "index":24,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "full-term pregnancy",
+             "preterm pregnancy (less than 37 weeks)",
+             "late-term pregnancy (more than 40 weeks)",
+             "pregnancy with complications",
+             "pregnancy without complications",
+             "multiple pregnancies (twins, triplets, etc.)"
+          ]
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Delivery",
+          "id":689442368,
+          "index":25,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "vaginal delivery",
+             "cesarean section (C-section)",
+             "emergency C-section",
+             "induced labor",
+             "natural labor without medication",
+             "labor with epidural or other pain management",
+             "assisted delivery (forceps or vacuum extraction)",
+             "delivery with complications",
+             "delivery without complications"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Did the patient see their doctor or pediatrician for annual well child checkups?",
+          "id":1376578792,
+          "index":26,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "regularly",
+             "occasionally",
+             "rarely",
+             "never"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Describe gross motor development",
+          "id":354682371,
+          "index":27,
+          "helpText":"(include age accomplished)",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Describe fine motor development",
+          "id":1457756385,
+          "index":28,
+          "helpText":"(include age accomplished)",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Describe speech and communication\ndevelopment",
+          "id":1834086442,
+          "index":29,
+          "helpText":" (include age accomplished)",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Please describe how discipline or consequences\nare handled in the home.",
+          "id":310497089,
+          "index":30,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "consistent and involves clear consequences for actions",
+             "generally consistent but varies depending on the situation",
+             "inconsistent and varies widely",
+             "involves positive reinforcement and reward systems",
+             "involves time-outs or loss of privileges",
+             "involves verbal warnings or discussions",
+             "involves physical punishment"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Is one caregiver typically the disciplinarian?",
+          "id":1135006087,
+          "index":31,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "one caregiver is always the disciplinarian",
+             "one caregiver is usually the disciplinarian",
+             "both caregivers share disciplinarian roles equally",
+             "neither caregiver takes on the disciplinarian role"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Are caregivers in agreement with discipline?",
+          "id":1091011145,
+          "index":32,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "completely in agreement",
+             "mostly in agreement",
+             "sometimes in agreement",
+             "rarely in agreement",
+             "not in agreement"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Sensory processing concerns?",
+          "id":792889457,
+          "index":33,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "over-responsive to sensory input (e.g., sensitive to lights, sounds, textures)",
+             "under-responsive to sensory input (e.g., slow to respond to sensory information)",
+             "seeks out sensory experiences (e.g., craves movement, touch)",
+             "avoids sensory experiences (e.g., avoids certain textures, loud noises)",
+             "mixed response to sensory input",
+             "no sensory processing concerns"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any developmental regression?",
+          "id":1398349251,
+          "index":34,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no regression observed",
+             "mild regression in some skills",
+             "significant regression in multiple skills",
+             "regression in speech and language",
+             "regression in motor skills",
+             "regression in social skills",
+             "regression in self-care abilities"
+          ]
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"EDUCATIONAL HISTORY",
+          "id":1295575678,
+          "index":35,
+          "helpText":""
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"When did the patient start structured education.",
+          "id":1892393737,
+          "index":36,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "before age 3",
+             "at age 3",
+             "at age 4",
+             "at age 5",
+             "at age 6",
+             "after age 6"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Please list all schools, grades attended.",
+          "id":692398202,
+          "index":37,
+          "helpText":"",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"What is the patient's highest level of education?",
+          "id":1764482492,
+          "index":38,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "did not complete high school",
+             "high school diploma or GED",
+             "some college, no degree",
+             "associate's degree",
+             "bachelor's degree",
+             "some graduate school, no degree",
+             "master's degree",
+             "doctoral degree (Ph.D., Ed.D., etc.)",
+             "professional degree (M.D., J.D., etc.)"
+          ]
+       },
+       {
+          "type":"TEXT",
+          "title":"Where did they attend school for the highest level of education?",
+          "id":369826987,
+          "index":39,
+          "helpText":"Name of School",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Please note any concerns in any grades. ",
+          "id":1811452523,
+          "index":40,
+          "helpText":"",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Has the patient ever repeated a grade?",
+          "id":775357309,
+          "index":41,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "never repeated a grade",
+             "repeated one grade",
+             "repeated multiple grades",
+             "currently repeating a grade"
+          ]
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Special accommodations?",
+          "id":2119279874,
+          "index":42,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "receives special education services",
+             "has an Individualized Education Program (IEP)",
+             "has a 504 Plan",
+             "receives accommodations for standardized testing",
+             "has classroom modifications (e.g., seating arrangements, extra time on assignments)",
+             "receives assistive technology services",
+             "receives behavioral support services",
+             "receives speech and language therapy",
+             "receives occupational therapy",
+             "receives physical therapy"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any diagnoses for learning disorders or ADHD?",
+          "id":1106922228,
+          "index":43,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "been diagnosed with a learning disorder",
+             "beendiagnosed with ADHD",
+             "been diagnosed with both a learning disorder and ADHD",
+             "suspected but not formally diagnosed with a learning disorder",
+             "suspected but not formally diagnosed with ADHD",
+             "no diagnoses for learning disorders or ADHD"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"IEP or 504 plan?",
+          "id":570793849,
+          "index":44,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "currently has an Individualized Education Program (IEP)",
+             "currently has a 504 Plan",
+             "currently has both an IEP and a 504 Plan",
+             "previously had an Individualized Education Program (IEP)",
+             "previously had a 504 Plan",
+             "previously had both an IEP and a 504 Plan",
+             "has never had an IEP or 504 Plan"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any problems at school?",
+          "id":1380738527,
+          "index":45,
+          "helpText":"(truancy/expulsions/consistent errors/disputes/harassment/bullying):",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "has current academic problems",
+             "has had past academic problems",
+             "has current behavioral problems",
+             "has had past behavioral problems",
+             "has current social problems",
+             "has had past social problems",
+             "has no problems at school"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"What are current hobbies or activities?",
+          "id":71379062,
+          "index":46,
+          "helpText":"Please describe. How long has the patient been participating?",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"MEDICAL HISTORY",
+          "id":1026228888,
+          "index":47,
+          "helpText":""
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Please note if there is any significant medical history.",
+          "id":531877853,
+          "index":48,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no significant medical history",
+             "history of chronic illness (e.g., asthma, diabetes)",
+             "history of surgeries",
+             "history of hospitalizations",
+             "history of genetic disorders",
+             "history of heart conditions",
+             "history of neurological conditions (e.g., epilepsy, migraines)",
+             "history of gastrointestinal issues",
+             "history of respiratory issues",
+             "history of autoimmune disorders"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any emergency room visits?",
+          "id":1948457872,
+          "index":49,
+          "helpText":"Please list dates and incident.",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no emergency room visits",
+             "one emergency room visit",
+             "multiple emergency room visits",
+             "emergency room visits for physical health issues",
+             "emergency room visits for mental health issues",
+             "emergency room visits for injuries"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any surgeries?",
+          "id":778585164,
+          "index":50,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no surgeries",
+             "one surgery",
+             "multiple surgeries",
+             "surgery for physical health issues",
+             "surgery for injuries",
+             "surgery for congenital conditions"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Please elaborate about anything noted above.",
+          "id":1832310447,
+          "index":51,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Any head injury?",
+          "id":1788985914,
+          "index":52,
+          "helpText":"(Please note age, loss of consciousness, hospitalized, surgery, persisting cognitive effects):",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of head injuries",
+             "single mild head injury",
+             "multiple mild head injuries",
+             "single severe head injury",
+             "multiple severe head injuries",
+             "diagnosed concussions"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Specify all medications and supplements presently taking with the dosage and the reason.",
+          "id":1993830023,
+          "index":53,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"If taking prescription medication, who is the prescribing provider?",
+          "id":2006750636,
+          "index":54,
+          "helpText":"Please include type of provider (MD, DO, etc), name and phone number.",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Who is the patient's primary care physician?",
+          "id":1866884491,
+          "index":55,
+          "helpText":"Please include type of provider (MD, DO, etc), name and phone number.",
+          "points":0,
+          "isRequired":true
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Allergies?",
+          "id":317231438,
+          "index":56,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no known allergies",
+             "food allergies",
+             "environmental allergies",
+             "medication allergies",
+             "insect sting allergies",
+             "pet allergies"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Immunizations up to date?",
+          "id":1939445784,
+          "index":57,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "all immunizations are up to date",
+             "some immunizations are up to date",
+             "no immunizations are up to date",
+             "immunizations are delayed due to medical reasons",
+             "immunizations are delayed due to personal or religious beliefs",
+             "immunizations status unknown"
+          ]
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Are other substances, such as caffeine, tobacco,\nmarijuana, or other non prescription or recreational\ndrugs used?",
+          "id":960330699,
+          "index":58,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "no use of any substances",
+             "uses caffeine",
+             "uses tobacco",
+             "uses marijuana",
+             "uses other non-prescription or recreational drugs",
+             "uses multiple substances (specify which ones)"
+          ]
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Sleep Concerns?",
+          "id":296953545,
+          "index":59,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "Delayed Onset",
+             "Frequent Awakening",
+             "Restlessness",
+             "Snoring",
+             "Early Morning Awakening",
+             "Daytime Tiredness",
+             "Nightmares",
+             "Naps"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Appetite",
+          "id":1129747362,
+          "index":60,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "has a very healthy appetite and eats a wide variety of foods",
+             "has a healthy appetite but is selective about certain foods",
+             "has a moderate appetite and sometimes skips meals",
+             "has a poor appetite and often refuses to eat",
+             "has a fluctuating appetite that varies day to day",
+             "has a strong preference for certain foods and avoids others"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Vision Concerns?",
+          "id":1421632264,
+          "index":61,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no vision concerns",
+             "wears glasses or contact lenses",
+             "has difficulty seeing far distances (nearsighted)",
+             "has difficulty seeing close objects (farsighted)",
+             "has astigmatism",
+             "has a lazy eye (amblyopia)",
+             "has strabismus (crossed eyes)",
+             "has color blindness"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Hearing Concerns?",
+          "id":1165257025,
+          "index":62,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no hearing concerns",
+             "uses hearing aids",
+             "frequent ear infections",
+             "difficulty hearing in noisy environments",
+             "partial hearing loss in one ear",
+             "partial hearing loss in both ears",
+             "diagnosed with auditory processing disorder"
+          ]
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"PSYCHIATRIC HISTORY",
+          "id":1864548025,
+          "index":63,
+          "helpText":""
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Does the patient have a psychiatric diagnosis?",
+          "id":1890194395,
+          "index":64,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "not been diagnosed with a psychiatric diagnosis",
+             "has been diagnosed with anxiety disorder",
+             "has been diagnosed with depression",
+             "has been diagnosed with bipolar disorder",
+             "has been diagnosed with schizophrenia",
+             "has been diagnosed with obsessive-compulsive disorder (OCD)",
+             "has been diagnosed with post-traumatic stress disorder (PTSD)",
+             "has been diagnosed with eating disorder",
+             "has been diagnosed with personality disorder",
+             "has been diagnosed with attention-deficit/hyperactivity disorder (ADHD)",
+             "has been diagnosed with autism spectrum disorder (ASD)"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Has the patient ever been hospitalized for a psychiatric issue?",
+          "id":1371468596,
+          "index":65,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of psychiatric hospitalization",
+             "one psychiatric hospitalization",
+             "multiple psychiatric hospitalizations",
+             "hospitalized for depression",
+             "hospitalized for anxiety",
+             "hospitalized for suicidal ideation or attempts",
+             "hospitalized for psychosis"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Does the patient currently see a therapist or have seen one in the past?",
+          "id":571780736,
+          "index":66,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "currently sees a therapist",
+             "has seen a therapist in the past",
+             "has never seen a therapist",
+             "currently sees a therapist and has seen one in the past",
+             "currently sees a counselor",
+             "has seen a counselor in the past",
+             "has never seen a counselor",
+             "currently sees a counselor and has seen one in the past"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Is there a history of mental illness in the family?",
+          "id":524420060,
+          "index":67,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of mental illness in the family",
+             "history of depression in the family",
+             "history of anxiety in the family",
+             "history of bipolar disorder in the family",
+             "history of schizophrenia in the family",
+             "history of substance abuse in the family",
+             "history of obsessive-compulsive disorder (OCD) in the family",
+             "history of post-traumatic stress disorder (PTSD) in the family",
+             "history of eating disorders in the family",
+             "history of personality disorders in the family",
+             "other mental illnesses in the family"
+          ]
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"BEHAVIORAL AND EMOTIONAL FUNCTIONING",
+          "id":812114069,
+          "index":68,
+          "helpText":""
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Anxiety",
+          "id":217520956,
+          "index":69,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of anxiety",
+             "mild anxiety symptoms",
+             "moderate anxiety symptoms",
+             "severe anxiety symptoms",
+             "anxiety diagnosed by a healthcare professional",
+             "currently receiving treatment for anxiety",
+             "past treatment for anxiety"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Somatic Complaints",
+          "id":1857835108,
+          "index":70,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no somatic complaints",
+             "frequent headaches",
+             "frequent stomachaches",
+             "muscle tension or pain",
+             "fatigue or low energy",
+             "dizziness or lightheadedness",
+             "nausea or vomiting",
+             "unexplained aches and pains"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Worry",
+          "id":284050283,
+          "index":71,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no excessive worry",
+             "worries occasionally about specific situations",
+             "frequently worries about a variety of issues",
+             "worries excessively about health or safety",
+             "worries excessively about social interactions",
+             "worries excessively about academic performance",
+             "worries excessively about future events"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Fear",
+          "id":1049955518,
+          "index":72,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no significant fears",
+             "fear of specific objects or situations (phobias)",
+             "fear of social interactions (social anxiety)",
+             "fear of being away from parents or home (separation anxiety)",
+             "fear of the dark or nighttime",
+             "fear of failure or making mistakes",
+             "fear of being judged or criticized"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Appropriate Stranger Danger",
+          "id":953228056,
+          "index":73,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "demonstrates appropriate caution around strangers",
+             "overly cautious around strangers",
+             "too trusting of strangers",
+             "has been taught about stranger danger but does not always follow it",
+             "has not been taught about stranger dange"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Risk/Danger awareness",
+          "id":2041739096,
+          "index":74,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "has appropriate awareness of risk and danger",
+             "has limited awareness of risk and danger",
+             "has poor awareness of risk and danger",
+             "often engages in risky or dangerous behaviors",
+             "needs constant supervision to ensure safety",
+             "shows excessive fear of risk and danger"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Obsessive Thoughts",
+          "id":1048904460,
+          "index":75,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no obsessive thoughts",
+             "occasional obsessive thoughts",
+             "frequent obsessive thoughts",
+             "obsessive thoughts interfere with daily activities",
+             "diagnosed with obsessive-compulsive disorder (OCD)",
+             "currently receiving treatment for obsessive thoughts",
+             "past treatment for obsessive thoughts"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Repetitive Behaviors or Habits",
+          "id":277905485,
+          "index":76,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no repetitive behaviors or habits",
+             "occasional repetitive behaviors or habits",
+             "frequent repetitive behaviors or habits",
+             "repetitive behaviors or habits interfere with daily activities",
+             "diagnosed with obsessive-compulsive disorder (OCD)",
+             "currently receiving treatment for repetitive behaviors or habits",
+             "past treatment for repetitive behaviors or habits"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Depressed Mood",
+          "id":1599838701,
+          "index":77,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of depressed mood",
+             "occasional feelings of sadness or low mood",
+             "frequent feelings of sadness or low mood",
+             "persistent depressed mood",
+             "diagnosed with depression",
+             "currently receiving treatment for depression",
+             "past treatment for depression"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Impulsivity",
+          "id":735565534,
+          "index":78,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of impulsivity",
+             "occasional impulsive behavior",
+             "frequent impulsive behavior",
+             "impulsive behavior that interferes with daily activities",
+             "diagnosed with ADHD",
+             "currently receiving treatment for impulsivity",
+             "past treatment for impulsivity"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Hyperactivity",
+          "id":439403690,
+          "index":79,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of hyperactivity",
+             "occasional hyperactive behavior",
+             "frequent hyperactive behavior",
+             "hyperactive behavior that interferes with daily activities",
+             "diagnosed with ADHD",
+             "currently receiving treatment for hyperactivity",
+             "past treatment for hyperactivity"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Distractibility",
+          "id":160551661,
+          "index":80,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of distractibility",
+             "occasionally distracted",
+             "frequently distracted",
+             "distractibility interferes with daily activities",
+             "diagnosed with ADHD",
+             "currently receiving treatment for distractibility",
+             "past treatment for distractibility"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Inattention",
+          "id":1453951612,
+          "index":81,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of inattention",
+             "occasional inattention",
+             "frequent inattention",
+             "inattention that interferes with daily activities",
+             "diagnosed with ADHD",
+             "currently receiving treatment for inattention",
+             "past treatment for inattention"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Tantrums",
+          "id":83282251,
+          "index":82,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of tantrums",
+             "occasional tantrums",
+             "frequent tantrums",
+             "severe tantrums",
+             "tantrums triggered by specific situations",
+             "tantrums that interfere with daily activities",
+             "currently receiving treatment for tantrums",
+             "past treatment for tantrums"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Self-Injurious Behaviors",
+          "id":1104024754,
+          "index":83,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no self-injurious behaviors",
+             "occasional self-injurious behaviors",
+             "frequent self-injurious behaviors",
+             "cutting or scratching",
+             "burning",
+             "hitting or punching oneself",
+             "head banging",
+             "currently receiving treatment for self-injurious behaviors",
+             "past treatment for self-injurious behaviors"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Aggression",
+          "id":1858084407,
+          "index":84,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no signs of aggression",
+             "occasional aggressive behavior",
+             "frequent aggressive behavior",
+             "verbal aggression",
+             "physical aggression",
+             "aggression towards self",
+             "aggression towards others",
+             "currently receiving treatment for aggression",
+             "past treatment for aggression"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Hallucinations/Delusions",
+          "id":940895939,
+          "index":85,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of hallucinations or delusions",
+             "occasional hallucinations",
+             "frequent hallucinations",
+             "occasional delusions",
+             "frequent delusions",
+             "diagnosed with a psychotic disorder",
+             "currently receiving treatment for hallucinations or delusions",
+             "past treatment for hallucinations or delusions"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Substance Use",
+          "id":1375060259,
+          "index":86,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of substance use",
+             "occasional use of substances (e.g., alcohol, tobacco)",
+             "frequent use of substances (e.g., alcohol, tobacco)",
+             "use of marijuana",
+             "use of prescription drugs not prescribed to them",
+             "use of illegal drugs",
+             "currently receiving treatment for substance use",
+             "past treatment for substance use"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Sexual History",
+          "id":135570383,
+          "index":87,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no sexual activity",
+             "sexually active with one partner",
+             "sexually active with multiple partners",
+             "history of consensual sexual activity",
+             "history of non-consensual sexual activity",
+             "history of sexually transmitted infections (STIs)",
+             "currently receiving treatment for sexual health issues"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Social Connections",
+          "id":695109673,
+          "index":88,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "strong social connections with peers",
+             "moderate social connections with peers",
+             "weak social connections with peers",
+             "difficulty making or maintaining friendships",
+             "socially isolated or withdrawn",
+             "participates in social activities or groups"
+          ]
+       },
+       {
+          "type":"SECTION_HEADER",
+          "title":"SOCIAL CONNECTIONS",
+          "id":692895854,
+          "index":89,
+          "helpText":""
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Please describe social supports.",
+          "id":649634977,
+          "index":90,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "strong support from family",
+             "strong support from friends",
+             "involvement in community groups or organizations",
+             "participation in support groups",
+             "strong support from school staff or teachers",
+             "support from religious or spiritual community",
+             "limited social support",
+             "no social support"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"If in a relationship, please describe the nature of the relationship and length of time together.",
+          "id":1960090937,
+          "index":91,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "in a stable and supportive relationship for less than 6 months",
+             "in a stable and supportive relationship for 6 months to 1 year",
+             "in a stable and supportive relationship for 1 to 3 years",
+             "in a stable and supportive relationship for more than 3 years",
+             "in a turbulent or unstable relationship for less than 6 months",
+             "in a turbulent or unstable relationship for 6 months to 1 year",
+             "in a turbulent or unstable relationship for 1 to 3 years",
+             "in a turbulent or unstable relationship for more than 3 years"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Does the patient feel safe in the relationship?",
+          "id":266606711,
+          "index":92,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "always feels safe in the relationship",
+             "mostly feels safe in the relationship",
+             "sometimes feels safe in the relationship",
+             "rarely feels safe in the relationship",
+             "never feels safe in the relationship",
+             "N/A"
+          ]
+       },
+       {
+          "type":"CHECKBOX",
+          "title":"Please check any of the following that apply",
+          "id":1344457937,
+          "index":93,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":true,
+          "isRequired":true,
+          "choices":[
+             "Does not give close attention to details",
+             "Distractible and has concentration problems",
+             "Does not listen or follow instructions",
+             "Fails to complete tasks",
+             "Loses or misplaces things",
+             "Forgetful",
+             "Fidgets and squirms",
+             "Has difficulty staying seated",
+             "Talks excessively",
+             "Moves,runs, or climbs when not appropriate",
+             "Difficulty waiting turn in line or during games",
+             "Interrupts or intrudes on others",
+             "Difficulty inhibiting inappropriate responses",
+             "Difficulty sifting attention between tasks",
+             "Organizing information",
+             "Difficulty planning and completing multiple step tasks",
+             "Difficulty monitoring and adapting behavior",
+             "Difficulty regulating emotional response",
+             "Difficulty managing time",
+             "Difficulty initiating and completing tasks",
+             "Struggles with reading",
+             "Difficulty mastering phonics (letter sounds)",
+             "Poor reading comprehension",
+             "Struggles with math concepts",
+             "Difficulty with writing conventions such as punctuation",
+             "Difficulty organizing their thoughts",
+             "Poor spelling",
+             "Frequently complains about school",
+             "Easily discouraged or overwhelmed with homework",
+             "Problems sharing interests or emotions with others",
+             "Fails to initiate or respond to social situations",
+             "Shows poor regulation of eye contact and body language",
+             "Decreased interest in developing friendships with others",
+             "Does not understand nonverbal cues",
+             "Uses toys in nonfunctional ways (focus on wheel rather than",
+             "use car imaginatively)",
+             "Copies words or phrases repeatedly",
+             "Highly restricted, fixed interests",
+             "Low or high response to sensory experiences (light, sound,",
+             "textures of food or clothing)",
+             "Doesn't get called for outings or playdates",
+             "Doesn't have close friendships",
+             "Misinterprets others comments or behavior",
+             "Misses social cues",
+             "Is withdrawn from others",
+             "Feels isolated and lonely",
+             "Struggles to initiate conversation",
+             "Says or does things that put off others",
+             "Doesn't feel confident around others",
+             "Struggles in large groups"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"History of Abuse or Neglect?",
+          "id":367457006,
+          "index":94,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of abuse or neglect",
+             "history of physical abuse",
+             "history of emotional abuse",
+             "history of sexual abuse",
+             "history of neglect",
+             "multiple types of abuse",
+             "currently receiving treatment for abuse or neglect",
+             "past treatment for abuse or neglect"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any CPS Contact?",
+          "id":1512784067,
+          "index":95,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no contact with Child Protective Services (CPS)",
+             "past contact with CPS",
+             "current involvement with CPS",
+             "multiple contacts with CPS",
+             "CPS contact due to suspected abuse or neglect",
+             "CPS contact due to other family issues"
+          ]
+       },
+       {
+          "type":"MULTIPLE_CHOICE",
+          "title":"Any history or Interaction with Legal System/Legal Concerns?",
+          "id":1266865848,
+          "index":96,
+          "helpText":"",
+          "points":0,
+          "hasOtherOption":false,
+          "isRequired":true,
+          "choices":[
+             "no history of interaction with the legal system",
+             "past interaction with the legal system",
+             "current legal concerns or involvement",
+             "history of juvenile delinquency",
+             "history of arrests or charges",
+             "history of court appearances",
+             "probation or parole history",
+             "involvement with family court (custody, guardianship, etc.)"
+          ]
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Please note the patient's strengths.",
+          "id":617584087,
+          "index":97,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       },
+       {
+          "type":"PARAGRAPH_TEXT",
+          "title":"Is there anything else that you would like me to know?",
+          "id":479583636,
+          "index":98,
+          "helpText":"",
+          "points":0,
+          "isRequired":false
+       }
+    ],
+    "count":99
+ }
