@@ -19,16 +19,23 @@ function generateWordDocument(results) {
 
     for (const question in results) {
         const answer = results[question];
+        const answerTextRuns = [];
+
+        if (Array.isArray(answer)) {
+            for (const item of answer) {
+                answerTextRuns.push(new TextRun({ text: item, break: 1 }));
+            };
+        } else {
+            answerTextRuns.push(new TextRun({ text: answer, break: 1 }));
+        }
+
         paragraphs.push(new Paragraph({
             children: [
                 new TextRun({
                     text: question,
                     bold: true,
                 }),
-                new TextRun({
-                    text: answer,
-                    break: 1,
-                }),
+                ...answerTextRuns
             ],
         }));
         paragraphs.push(new Paragraph({})); // To break up the questions
