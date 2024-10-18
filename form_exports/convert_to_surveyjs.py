@@ -21,9 +21,7 @@ with open(filename, 'r') as f:
             continue
         elif type == 'DATE':
             function_name = 'dateOfBirth'
-        elif type == 'CHECKBOX':
-            function_name = 'checkboxes'
-        elif type == 'MULTIPLE_CHOICE':
+        elif type in ('MULTIPLE_CHOICE', 'CHECKBOX'):
             function_name = 'multipleChoice'
 
         code = function_name + "(" + '\n'
@@ -32,6 +30,7 @@ with open(filename, 'r') as f:
         code += '    ' + json.dumps(item['isRequired']) + ',\n'
         if type in ('CHECKBOX', 'MULTIPLE_CHOICE'):
             code += '    ' + json.dumps(item['choices']) + ',\n'
+            code += '    ' + json.dumps(type == 'MULTIPLE_CHOICE') + ',\n'  # multipleSelect flag
         code += ")"
 
         elementsStr += code + ',\n'
