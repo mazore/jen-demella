@@ -1,6 +1,6 @@
 const intakeQuestionnaire = {
     title: 'Patient Intake Questionnaire',
-    showPreviewBeforeComplete: "showAnsweredQuestions",
+    // showPreviewBeforeComplete: "showAnsweredQuestions",
     elements: [
         shortText(
             "First Name",
