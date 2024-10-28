@@ -85,12 +85,12 @@ const intakeQuestionnaire = {
         // ),
         longText(
             "Maternal History",
-            "Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History\n(milestones met? list age of any concerns).",
+            "Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History (milestones met? list age of any concerns).",
             false,
         ),
         longText(
             "Paternal History",
-            "Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History\n(milestones met? list age of any concerns)",
+            "Please list history of education and highest degree earned. List any educational, medical, or emotional concerns and grade level/age at occurrence. List Currently Employment. List Developmental History (milestones met? list age of any concerns)",
             false,
         ),
         // multipleChoice(
@@ -138,7 +138,7 @@ const intakeQuestionnaire = {
             false,
         ),
         longText(
-            "Describe speech and communication\ndevelopment",
+            "Describe speech and communication development",
             "Include age accomplished",
             false,
         ),
@@ -180,7 +180,7 @@ const intakeQuestionnaire = {
             "",
             false,
             ["before age 3", "At age 3", "At age 4", "at age 5", "at age 6", "after age 6"],
-            true,
+            false,
         ),
         longText(
             "Please list all schools, grades attended.",
@@ -192,7 +192,7 @@ const intakeQuestionnaire = {
             "",
             false,
             ["did not complete high school", "high school diploma or GED", "some college, no degree", "associate's degree", "bachelor's degree", "some graduate school, no degree", "master's degree", "doctoral degree (Ph.D., Ed.D., etc.)", "professional degree (M.D., J.D., etc.)"],
-            true,
+            false,
         ),
         shortText(
             "Where did they attend school for the highest level of education?",
@@ -215,7 +215,7 @@ const intakeQuestionnaire = {
             "Special accommodations?",
             "",
             false,
-            ["receives special education services", "has an Individualized Education Program (IEP)", "has a 504 Plan", "receives accommodations for standardized testing", "has classroom modifications (e.g., seating arrangements, extra time on assignments)", "receives assistive technology services", "receives behavioral support services", "receives speech and language therapy", "receives occupational therapy", "receives physical therapy"],
+            ["receives special education services", "has an Individualized Education Program (IEP)", "has a 504 Plan", "receives accommodations for standardized testing", "has classroom modifications (e.g., seating arrangements, extra time on assignments)", "receives assistive technology services", "receives behavioral support services", "receives speech and language therapy", "receives occupational therapy", "receives physical therapy", "no special accommodations"],
             true,
         ),
         multipleChoice(
@@ -275,7 +275,7 @@ const intakeQuestionnaire = {
             "(Please note age, loss of consciousness, hospitalized, surgery, persisting cognitive effects):",
             false,
             ["no history of head injuries", "single mild head injury", "multiple mild head injuries", "single severe head injury", "multiple severe head injuries", "diagnosed concussions"],
-            true,
+            false,
         ),
         longText(
             "Specify all medications and supplements presently taking with the dosage and the reason.",
@@ -307,7 +307,7 @@ const intakeQuestionnaire = {
             false,
         ),
         multipleChoice(
-            "Are other substances, such as caffeine, tobacco,\nmarijuana, or other non prescription or recreational\ndrugs used?",
+            "Are other substances, such as caffeine, tobacco, marijuana, or other non prescription or recreational drugs used?",
             "",
             false,
             ["no use of any substances", "uses caffeine", "uses tobacco", "uses marijuana", "uses other non-prescription or recreational drugs", "uses multiple substances (specify which ones)"],
@@ -568,7 +568,6 @@ const intakeQuestionnaire = {
             "",
             false,
         ),
-
     ],
     showQuestionNumbers: 'off',
     completedHtml: 'Thank you for completing the questionnaire!',
